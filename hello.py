@@ -1,5 +1,7 @@
 20170816
 practice
+=======
+>>>>>>> origin/master
 // For command line git tutorial
 // First:GitHub modification
 // Second: Local repository modification
